@@ -1,1 +1,1 @@
-# Tower-of-Hanoi-recursion-
+# Tower of Hanoi (recursion)
